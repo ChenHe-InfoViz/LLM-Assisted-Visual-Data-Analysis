@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Census Explorer</title>
+  <link rel="stylesheet" href="stylesheets/styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.14.1/themes/base/jquery-ui.min.css" integrity="sha512-TFee0335YRJoyiqz8hA8KV3P0tXa5CpRBSoM0Wnkn7JoJx1kaq1yXL/rb8YFpWXkMOjRcv5txv+C6UluttluCQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.14.0/jquery-ui.min.js" integrity="sha512-MlEyuwT6VkRXExjj8CdBKNgd+e2H+aYZOCUaCrt9KRk6MlZDOs91V1yK22rwm8aCIsb5Ec1euL8f0g58RKT/Pg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js" integrity="sha512-vc58qvvBdrDR4etbxMdlTt4GBQk1qjvyORR2nrsPsFPyrs+/u5c3+1Ct6upOgdZoIl7eq6k3a1UPDSNAQi/32A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
+  <script src="https://kit.fontawesome.com/e6ea1bd9a7.js" crossorigin="anonymous"></script>
+  <script src="https://d3js.org/d3-selection-multi.v1.min.js"></script>
+  <link rel="shortcut icon" type="image/x-icon" href="./images/favicon.png"/>
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <!-- <i class="fa-solid fa-bars icon" id="menuIcon"></i> -->
+      <span style="text-align: center;">Census Explorer</span>
+      <a style="padding-right: 10px; text-align: center; color: orange; text-decoration: underline; cursor: pointer;" id = "taskIcon">Tutorial <i class="fa fa-external-link awesomeButtom" aria-hidden="true"></i></a> 
+    </div>
+  </header>
+
+  <main>
+    <aside id="fieldsPanel">
+      <h2>Attributes</h2>
+      <div id="fieldList" class="pill-list"></div>
+      <div class="help">
+        <!-- <details open>
+          <summary>Rules</summary>
+          <ul>
+            <li>X categorical → Bar (Y=count)</li>
+            <li>X categorical &amp; Y numerical → Bar (Y=median)</li>
+            <li>X numerical → Histogram</li>
+            <li>X &amp; Y categorical → Heatmap</li>
+            <li>X numerical &amp; (Y numerical or categorical) → Heatmap</li>
+          </ul>
+          <p>Heatmap: Count or % (by row/col). Selection shows as overlay in <em>all</em> charts. By convention, bins include the lower bound but do not include the upper bound.</p>
+        </details> -->
+      </div>
+    </aside>
+
+    <section id="grid">
+      <div class="slot" data-slot="0"></div>
+      <div class="slot" data-slot="1"></div>
+      <div class="slot" data-slot="2"></div>
+      <div class="slot" data-slot="3"></div>
+    </section>
+    <aside id="chatbar">
+
+      <div id = "messageDiv">
+        <div id = "innerMessageDiv">
+          
+        </div>
+      </div>
+      <div class="search">
+        <!-- <div id = "chatLabel">Chat with: <span id="fileSpan"></span> file(s)</div> -->
+        <input type="text" id="input-box" autofocus placeholder="Discuss your exploration or findings you spot..." onkeydown="messageEnter(this)"/> 
+        <i class="fa-solid fa-2x fa-paper-plane icon" id="sendButton"></i>
+      </div>
+    </aside>
+  </main>
+  <div id = "tooltip">
+    <label id = "tipName"></label>
+  </div>
+  <div id="dialog-form" title="">
+      <fieldset>
+      </fieldset>
+  </div>
+
+  <script src="javascripts/ui.js"></script>
+  <script src="javascripts/utils.js"></script>
+  <script src="javascripts/app.js"></script>
+  <script src="javascripts/heatmap.js"></script>
+  <script src="javascripts/scatter.js"></script>
+  <script src="javascripts/cchat.js"></script>
+  <script type="text/javascript">
+    var curUser = {}
+    curUser.id = 0
+    curUi = new Ui()
+    init()
+    
+    async function loadCSV() {
+      try {
+        const response = await fetch("data/sample.csv"); // path relative to public folder
+        const text = await response.text();
+        const rows = d3.csvParse(text);
+        loadData(rows);
+      } catch (error) {
+        console.error("Error loading CSV:", error);
+      } finally {
+        refreshFieldList()
+      }
+    }
+    loadCSV();    
+  </script>
+</body>
+</html>

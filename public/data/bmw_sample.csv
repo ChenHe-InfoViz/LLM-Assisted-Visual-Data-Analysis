@@ -1,0 +1,1001 @@
+model,year,price,transmission,mileage,fuelType,mpg,engineSize
+3 Series,2016,15498,Semi-Auto,13377,Petrol,51.4,2
+3 Series,2016,16895,Automatic,46003,Diesel,51.4,3
+X3,2017,22000,Automatic,27385,Diesel,54.3,2
+4 Series,2014,12990,Semi-Auto,52135,Diesel,61.4,2
+3 Series,2019,26950,Semi-Auto,4320,Petrol,42.2,2
+1 Series,2016,11491,Manual,36200,Diesel,83.1,1.5
+4 Series,2019,25490,Semi-Auto,6782,Petrol,48.7,2
+X5,2019,44888,Automatic,12082,Diesel,37.7,3
+X2,2019,26972,Automatic,123,Petrol,38.7,2
+3 Series,2016,15495,Automatic,32000,Other,148.7,2
+X4,2015,20250,Automatic,54116,Diesel,47.9,3
+3 Series,2016,24495,Automatic,45853,Diesel,49.6,3
+3 Series,2018,15700,Automatic,29394,Petrol,48.7,2
+1 Series,2013,11450,Manual,66621,Petrol,42.8,2
+2 Series,2020,29995,Semi-Auto,1501,Petrol,47.9,2
+2 Series,2017,17998,Semi-Auto,27997,Diesel,57.6,2
+X1,2018,22500,Automatic,19063,Petrol,44.8,2
+2 Series,2016,15495,Automatic,34391,Diesel,68.9,1.5
+2 Series,2015,15995,Manual,19361,Diesel,64.2,2
+3 Series,2016,21995,Semi-Auto,37625,Diesel,49.6,3
+X1,2016,16400,Automatic,47406,Diesel,57.6,2
+3 Series,2019,26750,Semi-Auto,4327,Diesel,53.3,3
+2 Series,2019,19870,Manual,123,Petrol,42.8,1.5
+4 Series,2014,17750,Semi-Auto,39801,Diesel,50.4,3
+4 Series,2016,15750,Automatic,37484,Diesel,65.7,2
+1 Series,2015,9985,Manual,43834,Diesel,72.4,1.5
+1 Series,2016,12980,Manual,27696,Diesel,65.7,2
+X3,2014,14000,Automatic,60590,Diesel,50.4,2
+3 Series,2010,5290,Manual,80000,Petrol,44.8,2
+Z4,2019,32995,Automatic,11,Petrol,38.7,2
+X2,2019,32000,Automatic,2631,Petrol,34,2
+1 Series,2016,13498,Semi-Auto,42001,Diesel,68.9,1.5
+X7,2019,66000,Semi-Auto,2881,Diesel,33.6,3
+3 Series,2019,22980,Semi-Auto,11571,Diesel,54.3,2
+3 Series,2014,12890,Semi-Auto,52106,Diesel,62.8,2
+7 Series,2019,48782,Semi-Auto,101,Diesel,41.5,3
+3 Series,2016,14000,Automatic,91707,Diesel,53.3,3
+3 Series,2016,13799,Automatic,47262,Diesel,62.8,2
+4 Series,2019,24622,Semi-Auto,2043,Diesel,65.7,2
+1 Series,2019,18950,Manual,6675,Diesel,70.6,1.5
+3 Series,2016,12990,Manual,53000,Diesel,64.2,2
+M3,2005,10999,Manual,115000,Petrol,20.8,3.2
+2 Series,2019,21980,Semi-Auto,8000,Diesel,65.7,2
+X1,2019,24474,Semi-Auto,9044,Petrol,40.9,1.5
+2 Series,2016,11976,Manual,26089,Petrol,55.4,1.5
+3 Series,2014,5990,Manual,138750,Diesel,65.7,2
+X3,2019,40980,Semi-Auto,3082,Diesel,36.7,3
+4 Series,2016,15499,Manual,55802,Diesel,62.8,2
+5 Series,2017,21498,Semi-Auto,34296,Diesel,65.7,2
+5 Series,2017,22312,Automatic,16403,Diesel,65.7,2
+3 Series,2016,16999,Automatic,23157,Hybrid,134.5,2
+4 Series,2018,26875,Semi-Auto,6488,Diesel,51.4,3
+4 Series,2019,24990,Semi-Auto,1000,Petrol,48.7,2
+1 Series,2017,11250,Manual,30846,Petrol,53.3,1.5
+3 Series,2018,26750,Automatic,8482,Petrol,41.5,3
+4 Series,2019,33490,Semi-Auto,10,Diesel,51.4,3
+1 Series,2016,15498,Manual,20233,Diesel,62.8,2
+2 Series,2016,10500,Automatic,115470,Hybrid,141.2,1.5
+2 Series,2016,18498,Semi-Auto,18245,Diesel,55.4,2
+X1,2018,19300,Manual,15209,Diesel,52.3,2
+5 Series,2017,16700,Automatic,36164,Diesel,60.1,2
+5 Series,2019,25101,Semi-Auto,24143,Diesel,65.7,2
+2 Series,2018,25295,Semi-Auto,9500,Petrol,39.8,3
+X5,2017,57990,Automatic,10,Diesel,42.8,3
+M4,2015,27590,Manual,27489,Petrol,31,3
+5 Series,2016,10117,Manual,94419,Diesel,65.7,2
+Z4,2019,35995,Semi-Auto,1501,Petrol,37.2,2
+4 Series,2018,18300,Automatic,37491,Petrol,45.6,2
+1 Series,2016,14066,Manual,19023,Diesel,68.9,2
+3 Series,2013,10010,Semi-Auto,58916,Diesel,65.7,2
+1 Series,2014,12300,Automatic,41850,Diesel,64.2,2
+2 Series,2020,19950,Manual,100,Petrol,52.3,1.5
+1 Series,2014,14869,Semi-Auto,35093,Diesel,60.1,2
+4 Series,2018,19991,Semi-Auto,8018,Petrol,44.1,2
+3 Series,2013,12995,Manual,37333,Diesel,55.4,2
+5 Series,2016,18250,Automatic,17000,Diesel,60.1,2
+3 Series,2019,17480,Semi-Auto,20671,Petrol,51.4,1.5
+5 Series,2014,14790,Automatic,19503,Diesel,51.4,3
+4 Series,2019,21998,Semi-Auto,19856,Diesel,65.7,2
+3 Series,2019,25898,Semi-Auto,11917,Diesel,52.3,2
+3 Series,2019,29998,Manual,3980,Diesel,53.3,2
+2 Series,2016,19780,Semi-Auto,14041,Petrol,45.6,2
+X1,2016,16000,Manual,47908,Diesel,60.1,2
+4 Series,2018,22995,Automatic,7200,Petrol,48.7,2
+2 Series,2019,22995,Manual,1000,Petrol,42.8,1.5
+3 Series,2014,11180,Automatic,60015,Diesel,62.8,2
+X5,2019,45880,Semi-Auto,9000,Diesel,37.7,3
+X3,2020,32490,Semi-Auto,6565,Diesel,54.3,2
+3 Series,2016,20000,Automatic,39510,Petrol,41.5,3
+3 Series,2017,21972,Semi-Auto,21870,Diesel,53.3,3
+X4,2017,26491,Semi-Auto,30485,Diesel,47.9,3
+2 Series,2015,17498,Semi-Auto,41896,Petrol,37.2,3
+4 Series,2019,24975,Semi-Auto,11736,Diesel,65.7,2
+5 Series,2019,29982,Semi-Auto,3635,Petrol,47.9,2
+4 Series,2020,24490,Semi-Auto,105,Diesel,65.7,2
+X3,2014,15159,Automatic,77129,Diesel,54.3,2
+3 Series,2020,32980,Semi-Auto,1001,Diesel,50.4,2
+X1,2017,22000,Automatic,14105,Diesel,60.1,2
+X1,2019,28995,Semi-Auto,1000,Diesel,60.1,2
+X1,2017,18199,Automatic,29825,Diesel,65.7,2
+3 Series,2016,14295,Automatic,86060,Hybrid,134.5,2
+5 Series,1996,5995,Automatic,36000,Petrol,26.4,2.8
+1 Series,2017,15500,Manual,11500,Petrol,52.3,1.5
+2 Series,2017,13499,Manual,44011,Petrol,50.4,1.5
+X5,2016,19750,Automatic,96213,Diesel,52.3,2
+3 Series,2019,28450,Semi-Auto,8114,Diesel,48.7,2
+4 Series,2016,17430,Automatic,55381,Diesel,53.3,3
+3 Series,2019,33250,Semi-Auto,8496,Diesel,47.9,3
+Z4,2019,28450,Semi-Auto,5340,Petrol,38.2,2
+3 Series,2019,41995,Automatic,3000,Diesel,43.5,3
+3 Series,2016,20878,Semi-Auto,25145,Diesel,51.4,3
+2 Series,2016,13900,Manual,38811,Diesel,68.9,1.5
+X4,2017,25990,Semi-Auto,25357,Diesel,47.9,3
+1 Series,2017,12700,Manual,21809,Petrol,53.3,1.5
+1 Series,2017,13888,Manual,15512,Petrol,53.3,1.5
+3 Series,2019,28440,Semi-Auto,8788,Diesel,48.7,2
+3 Series,2017,16485,Semi-Auto,58081,Diesel,64.2,2
+X3,2019,32509,Semi-Auto,9000,Diesel,54.3,2
+3 Series,2019,25950,Semi-Auto,3655,Diesel,52.3,2
+3 Series,2019,27440,Semi-Auto,1700,Diesel,52.3,2
+1 Series,2013,11995,Manual,31600,Diesel,57.6,2
+6 Series,2006,4999,Automatic,126054,Petrol,29.7,3
+1 Series,2016,13850,Semi-Auto,37398,Diesel,67.3,2
+2 Series,2020,21950,Semi-Auto,15,Petrol,50.4,2
+1 Series,2015,13800,Automatic,39141,Diesel,65.7,2
+X3,2018,26995,Semi-Auto,15000,Petrol,30.4,2
+2 Series,2016,17869,Semi-Auto,39955,Petrol,43.5,2
+1 Series,2013,11200,Semi-Auto,10239,Petrol,48.7,1.6
+1 Series,2020,23490,Manual,6565,Diesel,53.3,2
+3 Series,2018,22482,Automatic,8850,Diesel,60.1,2
+3 Series,2019,26782,Semi-Auto,5626,Petrol,42.2,2
+1 Series,2013,7991,Manual,49479,Petrol,51.4,1.6
+X1,2011,7498,Manual,69561,Diesel,49.6,2
+2 Series,2019,23975,Semi-Auto,3013,Diesel,64.2,2
+1 Series,2017,24490,Manual,102,Diesel,65.7,2
+i8,2018,57870,Automatic,11278,Hybrid,134.5,1.5
+3 Series,2016,18789,Automatic,33078,Hybrid,134.5,2
+3 Series,2019,28990,Manual,104,Diesel,54.3,2
+3 Series,2019,24300,Semi-Auto,8000,Petrol,44.8,2
+1 Series,2015,10200,Manual,61296,Diesel,65.7,2
+X3,2019,38975,Semi-Auto,6436,Diesel,36.7,3
+3 Series,2019,33699,Semi-Auto,7736,Hybrid,8.8,2
+1 Series,2019,24488,Automatic,7488,Diesel,61.4,2
+X3,2017,29980,Semi-Auto,25101,Diesel,47.9,3
+X3,2015,10991,Automatic,130000,Diesel,54.3,2
+3 Series,2016,20480,Semi-Auto,22834,Diesel,51.4,3
+X4,2020,45500,Semi-Auto,1608,Petrol,26.9,3
+3 Series,2019,33995,Semi-Auto,4953,Hybrid,8.8,2
+2 Series,2015,15882,Semi-Auto,23742,Petrol,51.4,1.5
+5 Series,2016,15990,Automatic,53000,Diesel,51.4,3
+1 Series,2015,12250,Manual,34473,Petrol,52.3,1.5
+1 Series,2013,8999,Manual,57000,Diesel,65.7,2
+6 Series,2013,16200,Automatic,36049,Diesel,49.6,3
+M4,2015,29490,Semi-Auto,37724,Petrol,32.5,3
+2 Series,2017,13991,Manual,36045,Diesel,74.3,1.5
+X3,2015,16500,Semi-Auto,48000,Diesel,54.3,2
+4 Series,2019,36999,Automatic,3500,Diesel,50.4,3
+5 Series,2020,27990,Semi-Auto,105,Hybrid,49.6,2
+1 Series,2020,23450,Manual,1524,Petrol,44.1,1.5
+1 Series,2020,28875,Semi-Auto,150,Petrol,42.8,1.5
+5 Series,2017,23898,Semi-Auto,11896,Diesel,65.7,2
+1 Series,2015,13440,Semi-Auto,66471,Petrol,47.9,1.6
+X3,2017,15500,Manual,74907,Diesel,52.3,2
+1 Series,2017,10600,Manual,50927,Diesel,72.4,1.5
+2 Series,2015,14250,Manual,11000,Petrol,50.4,1.5
+3 Series,2020,33990,Semi-Auto,5665,Petrol,40.4,2
+1 Series,2018,23491,Manual,12139,Petrol,36.2,3
+4 Series,2016,18860,Semi-Auto,15422,Diesel,65.7,2
+1 Series,2013,10991,Semi-Auto,46439,Petrol,48.7,1.6
+5 Series,2014,11500,Automatic,92000,Diesel,57.6,2
+1 Series,2016,13998,Semi-Auto,50525,Diesel,65.7,2
+1 Series,2016,11899,Manual,40911,Diesel,70.6,1.5
+1 Series,2017,10700,Manual,38664,Diesel,83.1,1.5
+Z4,2020,32995,Semi-Auto,102,Petrol,38.7,2
+1 Series,2017,21490,Automatic,20000,Petrol,39.8,3
+3 Series,2018,18157,Automatic,28438,Diesel,62.8,2
+3 Series,2016,20584,Semi-Auto,36137,Diesel,53.3,3
+1 Series,2019,27888,Automatic,999,Diesel,51.4,2
+1 Series,2014,11200,Manual,45400,Diesel,64.2,2
+3 Series,2019,29450,Automatic,123,Diesel,54.3,2
+2 Series,2016,19500,Semi-Auto,24790,Petrol,37.2,3
+3 Series,2020,28450,Semi-Auto,101,Diesel,50.4,2
+3 Series,2014,13499,Automatic,54842,Diesel,62.8,2
+2 Series,2019,25490,Automatic,3339,Diesel,49.6,2
+X1,2019,26600,Semi-Auto,5085,Diesel,60.1,2
+3 Series,2020,43900,Automatic,11,Petrol,34.9,3
+3 Series,2019,23990,Manual,4710,Diesel,54.3,2
+5 Series,2013,11550,Automatic,92000,Diesel,57.6,2
+X2,2019,25907,Manual,151,Diesel,53.3,2
+3 Series,2015,14590,Semi-Auto,71902,Diesel,57.6,2
+4 Series,2016,18000,Automatic,15788,Diesel,65.7,2
+2 Series,2019,28630,Semi-Auto,2564,Diesel,67.3,2
+X2,2019,32991,Semi-Auto,2899,Petrol,39.2,2
+2 Series,2020,28995,Semi-Auto,1501,Diesel,49.6,2
+2 Series,2015,9995,Manual,37500,Diesel,68.9,2
+1 Series,2018,15224,Manual,12102,Petrol,37.7,1.5
+3 Series,2017,14990,Manual,18452,Diesel,67.3,2
+X1,2016,18797,Automatic,13505,Diesel,57.6,2
+1 Series,2017,20998,Semi-Auto,15010,Petrol,39.8,3
+X3,2014,9990,Automatic,107000,Diesel,50.4,2
+X2,2019,27990,Semi-Auto,8592,Diesel,58.9,2
+1 Series,2019,26991,Semi-Auto,2343,Petrol,40.4,1.5
+2 Series,2019,19980,Manual,1900,Petrol,42.8,1.5
+3 Series,2016,14199,Manual,51098,Diesel,64.2,2
+X3,2014,15112,Semi-Auto,69382,Diesel,54.3,2
+3 Series,2018,17000,Automatic,10877,Petrol,54.3,1.5
+5 Series,2018,19500,Automatic,37281,Petrol,50.4,2
+1 Series,2019,17980,Manual,7103,Diesel,70.6,1.5
+X1,2019,25990,Semi-Auto,8989,Diesel,60.1,2
+X5,2014,18400,Automatic,59307,Diesel,50.4,2
+X3,2014,15795,Semi-Auto,63000,Diesel,54.3,2
+2 Series,2014,13227,Automatic,29236,Petrol,47.1,2
+3 Series,2017,24750,Automatic,29449,Diesel,49.6,3
+X5,2019,52000,Semi-Auto,6500,Diesel,37.7,3
+5 Series,2019,42500,Semi-Auto,3555,Diesel,51.4,3
+8 Series,2019,59694,Semi-Auto,2881,Petrol,31.7,3
+3 Series,2016,10695,Automatic,100680,Diesel,60.1,2
+4 Series,2018,20400,Semi-Auto,22270,Diesel,60.1,2
+2 Series,2015,10706,Manual,27562,Diesel,68.9,2
+5 Series,2019,44190,Semi-Auto,6187,Petrol,37.7,3
+1 Series,2014,11700,Automatic,29626,Petrol,50.4,1.6
+X2,2018,24495,Semi-Auto,13147,Diesel,58.9,2
+4 Series,2020,37995,Semi-Auto,1501,Diesel,58.9,2
+3 Series,2017,23481,Semi-Auto,33093,Diesel,51.4,3
+5 Series,2016,14499,Automatic,53689,Diesel,62.8,2
+3 Series,2014,11474,Manual,53211,Diesel,61.4,2
+1 Series,2015,8800,Manual,59496,Diesel,83.1,1.5
+3 Series,2019,22990,Manual,1122,Diesel,60.1,2
+7 Series,2015,23499,Automatic,65218,Diesel,54.3,3
+X1,2019,25450,Semi-Auto,7549,Petrol,40.9,1.5
+X3,2019,42763,Semi-Auto,3844,Diesel,36.7,3
+Z4,2016,15991,Manual,25921,Petrol,41.5,2
+2 Series,2019,23900,Automatic,2426,Diesel,47.1,2
+4 Series,2017,18800,Automatic,19708,Diesel,65.7,2
+3 Series,2019,27000,Semi-Auto,4814,Diesel,52.3,2
+1 Series,2016,11799,Manual,37549,Diesel,70.6,1.5
+X4,2019,37995,Semi-Auto,5809,Diesel,42.8,2
+4 Series,2019,32880,Automatic,5000,Petrol,41.5,3
+3 Series,2018,20599,Automatic,22478,Petrol,47.9,2
+1 Series,2019,25995,Manual,500,Petrol,41.5,1.5
+X3,2019,35750,Automatic,4466,Diesel,54.3,2
+X4,2019,33998,Semi-Auto,4231,Diesel,42.8,2
+1 Series,2016,10399,Manual,33546,Diesel,83.1,1.5
+3 Series,2019,23298,Semi-Auto,11974,Diesel,54.3,2
+X3,2015,19370,Semi-Auto,41312,Diesel,54.3,2
+1 Series,2018,22000,Automatic,18225,Petrol,32.5,3
+X2,2020,28999,Semi-Auto,5000,Diesel,47.9,2
+M4,2019,45999,Semi-Auto,2373,Petrol,34,3
+3 Series,2016,13988,Automatic,42102,Petrol,51.4,2
+3 Series,2017,12750,Manual,41732,Petrol,48.7,2
+5 Series,2015,10795,Automatic,91360,Diesel,62.8,2
+3 Series,2016,14295,Automatic,94810,Hybrid,134.5,2
+3 Series,2019,27999,Automatic,9214,Diesel,52.3,2
+1 Series,2015,8999,Manual,59828,Diesel,72.4,1.5
+1 Series,2013,10125,Manual,61040,Petrol,42.8,2
+1 Series,2017,20495,Semi-Auto,27866,Petrol,39.8,3
+X3,2015,13000,Manual,105320,Diesel,52.3,2
+4 Series,2018,18280,Manual,17024,Petrol,46.3,2
+4 Series,2019,27162,Automatic,4734,Petrol,48.7,2
+2 Series,2019,23222,Semi-Auto,5290,Petrol,48.7,1.5
+3 Series,2016,16499,Automatic,24500,Hybrid,134.5,2
+4 Series,2016,20681,Semi-Auto,12531,Petrol,48.7,2
+1 Series,2017,20975,Semi-Auto,11932,Petrol,39.8,3
+2 Series,2018,18216,Automatic,5193,Petrol,48.7,2
+3 Series,2019,34000,Semi-Auto,5525,Diesel,50.4,2
+1 Series,2016,11490,Manual,49000,Diesel,62.8,2
+5 Series,2019,35790,Semi-Auto,12,Diesel,53.3,3
+1 Series,2018,23052,Semi-Auto,19959,Petrol,39.8,3
+2 Series,2019,21980,Semi-Auto,7315,Petrol,50.4,2
+7 Series,2017,35495,Semi-Auto,14550,Petrol,35.3,4.4
+3 Series,2017,16500,Automatic,42205,Diesel,62.8,2
+1 Series,2016,11000,Manual,36615,Petrol,53.3,1.5
+2 Series,2014,13998,Manual,22086,Diesel,58.9,2
+3 Series,2014,14000,Semi-Auto,73923,Diesel,52.3,3
+3 Series,2017,15498,Semi-Auto,43678,Diesel,60.1,2
+4 Series,2018,20000,Automatic,35042,Diesel,65.7,2
+3 Series,2019,27450,Semi-Auto,7491,Petrol,41.5,2
+3 Series,2015,14450,Automatic,47288,Diesel,62.8,2
+3 Series,2019,33875,Semi-Auto,9389,Diesel,49.6,2
+X1,2016,16000,Manual,50402,Diesel,68.9,2
+3 Series,2016,12990,Semi-Auto,48788,Diesel,74.3,2
+X4,2017,24999,Automatic,35351,Diesel,47.1,3
+2 Series,2016,12000,Manual,37847,Petrol,53.3,1.5
+3 Series,2020,71990,Semi-Auto,150,Diesel,47.1,3
+5 Series,2019,30980,Semi-Auto,2420,Hybrid,156.9,2
+3 Series,2017,15995,Semi-Auto,23715,Diesel,65.7,2
+3 Series,2017,20991,Semi-Auto,26321,Diesel,56.5,3
+4 Series,2019,28970,Semi-Auto,5402,Diesel,60.1,2
+2 Series,2017,18490,Semi-Auto,14440,Diesel,64.2,2
+3 Series,2015,15491,Automatic,35248,Diesel,64.2,2
+3 Series,2018,24475,Semi-Auto,10548,Petrol,46.3,2
+4 Series,2015,14999,Automatic,73150,Diesel,50.4,3
+X5,2016,24990,Automatic,34000,Diesel,47.9,3
+3 Series,2019,23987,Automatic,1049,Petrol,47.9,2
+3 Series,2016,10591,Manual,62674,Diesel,72.4,2
+X3,2017,21750,Automatic,25776,Diesel,47.9,3
+1 Series,2013,7475,Manual,70000,Diesel,74.3,1.6
+1 Series,2016,13457,Automatic,36670,Diesel,68.9,1.5
+X2,2019,26972,Automatic,123,Petrol,38.7,2
+X3,2019,34980,Semi-Auto,5014,Diesel,54.3,2
+1 Series,2016,19950,Semi-Auto,23210,Petrol,39.8,3
+4 Series,2018,20995,Automatic,3500,Diesel,55.4,3
+1 Series,2019,19840,Semi-Auto,5077,Petrol,55.5,1.5
+3 Series,2020,51000,Semi-Auto,5000,Diesel,43.5,3
+1 Series,2016,8795,Manual,98210,Diesel,65.7,2
+1 Series,2017,16790,Manual,15468,Petrol,46.3,2
+X4,2015,26332,Semi-Auto,8732,Diesel,47.9,3
+M2,2019,42110,Automatic,5644,Petrol,29.1,3
+X5,2019,46996,Automatic,6891,Diesel,37.7,3
+2 Series,2019,21450,Automatic,8085,Hybrid,148.7,1.5
+X5,2017,51990,Automatic,10,Diesel,47.1,3
+3 Series,2015,11300,Automatic,74317,Diesel,55.4,2
+4 Series,2019,28697,Semi-Auto,4927,Diesel,50.4,3
+X4,2015,19500,Automatic,51532,Diesel,54.3,2
+2 Series,2020,19500,Automatic,4330,Petrol,42.2,1.5
+1 Series,2017,12900,Manual,18942,Petrol,53.3,1.5
+4 Series,2018,22595,Semi-Auto,18937,Petrol,48.7,2
+1 Series,2016,8800,Manual,61786,Diesel,83.1,1.5
+X4,2016,18995,Automatic,74001,Diesel,54.3,2
+1 Series,2019,23499,Automatic,9112,Petrol,39.8,3
+1 Series,2017,13500,Manual,16423,Diesel,72.4,1.5
+3 Series,2019,24475,Semi-Auto,12991,Diesel,48.7,2
+5 Series,2019,34980,Semi-Auto,9430,Diesel,53.3,3
+X4,2015,19990,Semi-Auto,60059,Diesel,54.3,2
+5 Series,2016,13600,Automatic,64598,Diesel,62.8,2
+X2,2020,34999,Automatic,1217,Diesel,58.9,2
+1 Series,2017,20990,Semi-Auto,25249,Diesel,61.4,2
+1 Series,2019,25995,Semi-Auto,10572,Petrol,39.8,3
+5 Series,2016,11995,Manual,69850,Diesel,65.7,2
+1 Series,2019,22500,Manual,7781,Petrol,41.5,1.5
+3 Series,2016,19367,Automatic,25666,Diesel,51.4,3
+Z4,2009,7999,Automatic,63179,Petrol,33.2,2.5
+4 Series,2016,13800,Automatic,68589,Diesel,65.7,2
+4 Series,2019,30950,Semi-Auto,6212,Petrol,44.8,2
+4 Series,2019,25374,Automatic,151,Diesel,60.1,2
+3 Series,2017,19490,Semi-Auto,41816,Diesel,64.2,2
+X6,2013,15380,Semi-Auto,71522,Diesel,38.2,3
+1 Series,2019,24990,Manual,5846,Petrol,41.5,1.5
+X3,2019,33990,Automatic,1926,Diesel,54.3,2
+3 Series,2019,28940,Automatic,1550,Petrol,42.2,2
+4 Series,2018,21980,Semi-Auto,10030,Diesel,65.7,2
+3 Series,2017,13400,Automatic,49373,Diesel,70.6,2
+2 Series,2019,22646,Manual,123,Petrol,52.3,1.5
+X3,2013,15341,Semi-Auto,68729,Diesel,50.4,2
+1 Series,2016,14499,Manual,13388,Petrol,52.3,1.5
+X4,2019,33995,Semi-Auto,7141,Diesel,42.8,2
+X5,2019,56980,Semi-Auto,9029,Diesel,33.6,3
+X5,2016,25000,Automatic,52816,Diesel,50.4,2
+X3,2019,30990,Semi-Auto,20423,Petrol,30.4,2
+M6,2015,33500,Automatic,28314,Petrol,28.5,4.4
+2 Series,2017,22980,Semi-Auto,18688,Petrol,39.8,3
+3 Series,2020,27995,Manual,1000,Diesel,54.3,2
+4 Series,2016,21000,Semi-Auto,37000,Petrol,41.5,3
+3 Series,2012,11500,Automatic,83850,Petrol,43.5,2
+1 Series,2016,12741,Manual,23114,Diesel,68.9,2
+3 Series,2019,27998,Semi-Auto,11658,Diesel,48.7,2
+X2,2020,22980,Semi-Auto,10,Petrol,43.5,1.5
+1 Series,2016,14652,Manual,9461,Diesel,70.6,1.5
+3 Series,2017,15200,Automatic,19147,Petrol,47.9,2
+4 Series,2019,24785,Semi-Auto,2924,Petrol,48.7,2
+1 Series,2016,14499,Manual,17467,Diesel,62.8,2
+3 Series,2012,8750,Manual,54000,Diesel,61.4,2
+8 Series,2019,61898,Semi-Auto,2650,Diesel,39.8,3
+3 Series,2017,15599,Automatic,38070,Diesel,64.2,2
+4 Series,2019,24995,Automatic,6963,Diesel,65.7,2
+M3,2016,33750,Semi-Auto,33000,Petrol,34,3
+1 Series,2019,19490,Manual,7990,Diesel,65.7,2
+X1,2017,20980,Semi-Auto,31630,Diesel,55.4,2
+3 Series,2016,16995,Semi-Auto,22035,Diesel,62.8,2
+Z4,2008,14000,Manual,63000,Petrol,31.7,3
+3 Series,2020,43970,Semi-Auto,1381,Petrol,41.5,2
+3 Series,2017,10600,Manual,65213,Petrol,52.3,1.5
+3 Series,2017,22480,Semi-Auto,31421,Diesel,53.3,3
+X2,2020,26850,Semi-Auto,105,Diesel,50.4,2
+X1,2017,19990,Semi-Auto,32000,Diesel,57.6,2
+3 Series,2019,29480,Manual,2802,Diesel,54.3,2
+X5,2020,63295,Semi-Auto,150,Diesel,33.6,3
+X1,2019,27450,Automatic,123,Petrol,46.3,1.5
+1 Series,2015,11490,Manual,62538,Petrol,56.5,1.5
+X5,2019,51902,Semi-Auto,3224,Diesel,37.7,3
+3 Series,2005,2499,Manual,130000,Petrol,31.4,2.5
+3 Series,2000,1550,Automatic,93000,Petrol,29.7,2.5
+3 Series,2016,15800,Automatic,16319,Diesel,64.2,2
+3 Series,2016,18257,Automatic,19060,Diesel,53.3,3
+3 Series,2019,25975,Semi-Auto,3119,Petrol,42.2,2
+1 Series,2017,13998,Manual,33094,Diesel,72.4,1.5
+3 Series,2019,30052,Semi-Auto,6549,Diesel,52.3,2
+2 Series,2018,16750,Manual,13052,Diesel,64.2,2
+2 Series,2019,22646,Manual,123,Petrol,52.3,1.5
+3 Series,2016,16500,Semi-Auto,27444,Diesel,60.1,2
+3 Series,2016,12700,Manual,17385,Diesel,72.4,2
+X3,2019,33990,Semi-Auto,5434,Diesel,54.3,2
+1 Series,2019,19498,Semi-Auto,9739,Diesel,67.3,2
+X1,2017,17370,Manual,29575,Diesel,58.9,2
+1 Series,2016,18498,Semi-Auto,36523,Petrol,39.8,3
+7 Series,2017,34000,Semi-Auto,34024,Hybrid,128.4,2
+3 Series,2018,21875,Semi-Auto,7509,Diesel,62.8,2
+2 Series,2017,17495,Semi-Auto,15336,Petrol,48.7,2
+2 Series,2019,22000,Manual,2560,Petrol,52.3,1.5
+1 Series,2018,16695,Manual,7948,Diesel,65.7,2
+1 Series,2019,20780,Automatic,8245,Diesel,65.7,2
+1 Series,2016,12349,Automatic,79212,Diesel,68.9,1.5
+X6,2016,20950,Semi-Auto,29211,Diesel,47.1,3
+X5,2014,19999,Automatic,80000,Diesel,47.9,2
+3 Series,2017,19645,Semi-Auto,27900,Diesel,64.2,2
+5 Series,2017,20490,Automatic,33000,Diesel,65.7,2
+4 Series,2016,20641,Automatic,24939,Diesel,50.4,3
+5 Series,2017,22490,Semi-Auto,36549,Diesel,65.7,2
+4 Series,2019,21998,Semi-Auto,16616,Diesel,65.7,2
+X5,2017,30000,Automatic,23882,Diesel,47.1,3
+3 Series,2015,13400,Automatic,24741,Diesel,62.8,2
+X7,2020,78490,Semi-Auto,4919,Diesel,31.4,3
+1 Series,2019,33990,Automatic,9599,Petrol,34.5,2
+1 Series,2017,21307,Semi-Auto,12969,Petrol,39.8,3
+1 Series,2017,19498,Manual,21171,Petrol,36.2,3
+1 Series,2012,6990,Manual,74000,Diesel,62.8,2
+2 Series,2019,24054,Semi-Auto,7460,Petrol,47.9,2
+3 Series,2020,34875,Semi-Auto,2000,Diesel,50.4,2
+3 Series,2015,11690,Automatic,69002,Diesel,60.1,2
+1 Series,2017,12100,Manual,36642,Diesel,68.9,2
+4 Series,2017,17920,Manual,22956,Diesel,62.8,2
+X1,2016,18995,Semi-Auto,17604,Diesel,60.1,2
+X1,2019,25995,Manual,1501,Petrol,51.4,1.5
+X5,2016,21000,Automatic,71626,Other,85.6,2
+3 Series,2019,27995,Semi-Auto,2317,Diesel,52.3,2
+4 Series,2016,17950,Automatic,34938,Petrol,45.6,2
+2 Series,2016,12799,Manual,57561,Diesel,67.3,1.5
+3 Series,2019,20498,Semi-Auto,6160,Petrol,44.8,2
+3 Series,2019,26498,Semi-Auto,11504,Petrol,41.5,2
+2 Series,2019,27980,Semi-Auto,4859,Diesel,64.2,2
+1 Series,2020,28790,Semi-Auto,953,Diesel,51.4,2
+1 Series,2016,10200,Manual,49199,Diesel,83.1,1.5
+1 Series,2017,12400,Manual,40461,Diesel,62.8,2
+2 Series,2019,21500,Semi-Auto,2070,Petrol,40.9,1.5
+6 Series,2016,20999,Automatic,43483,Diesel,49.6,3
+4 Series,2015,14999,Automatic,19887,Diesel,64.2,2
+5 Series,2020,33980,Semi-Auto,1175,Diesel,62.8,2
+2 Series,2016,21211,Semi-Auto,26182,Petrol,37.2,3
+X1,2019,30900,Semi-Auto,678,Diesel,65.7,2
+X4,2017,24500,Semi-Auto,22768,Diesel,54.3,2
+X2,2019,31980,Automatic,4804,Petrol,34,2
+1 Series,2018,19840,Semi-Auto,32151,Diesel,61.4,2
+5 Series,2016,13119,Manual,51780,Diesel,60.1,2
+3 Series,2012,10240,Automatic,37089,Petrol,47.1,2
+X5,2016,24500,Automatic,57605,Other,85.6,2
+1 Series,2012,5495,Manual,73853,Diesel,60.1,2
+1 Series,2015,12800,Manual,37391,Diesel,65.7,2
+5 Series,2019,31780,Semi-Auto,13384,Diesel,60.1,3
+X4,2019,38380,Automatic,3502,Diesel,42.8,2
+1 Series,2019,19798,Semi-Auto,16406,Diesel,67.3,2
+X2,2019,28750,Semi-Auto,1914,Petrol,39.8,2
+X3,2018,29222,Semi-Auto,9406,Diesel,54.3,2
+4 Series,2019,26940,Semi-Auto,101,Diesel,65.7,2
+3 Series,2019,23250,Semi-Auto,11659,Diesel,55.4,2
+X5,2010,12990,Automatic,77000,Diesel,37.7,3
+5 Series,2019,36450,Semi-Auto,5700,Diesel,51.4,3
+2 Series,2019,20896,Automatic,15462,Diesel,67.3,2
+1 Series,2016,16195,Semi-Auto,21947,Diesel,68.9,1.5
+3 Series,2019,26836,Semi-Auto,6746,Diesel,52.3,2
+2 Series,2019,18480,Manual,10250,Petrol,42.2,1.5
+5 Series,2017,16400,Automatic,39728,Diesel,60.1,2
+X3,2019,33980,Semi-Auto,9067,Diesel,54.3,2
+X1,2015,7492,Manual,104000,Diesel,62.8,2
+3 Series,2013,8990,Automatic,90000,Diesel,50.4,2
+4 Series,2015,19200,Automatic,41670,Diesel,47.9,3
+1 Series,2019,15989,Automatic,7880,Petrol,55.5,1.5
+1 Series,2016,23412,Semi-Auto,9097,Petrol,39.8,3
+1 Series,2014,9692,Manual,34000,Petrol,52.3,1.6
+1 Series,2017,13450,Automatic,35835,Diesel,70.6,2
+X1,2015,12979,Semi-Auto,48102,Diesel,52.3,2
+M4,2019,46000,Semi-Auto,1921,Petrol,32.5,3
+4 Series,2018,18500,Automatic,21387,Petrol,48.7,2
+5 Series,2019,25980,Semi-Auto,5389,Petrol,36.2,2
+Z4,2020,29990,Semi-Auto,11,Petrol,38.7,2
+X5,2017,34990,Automatic,18000,Diesel,47.1,3
+2 Series,2020,26883,Semi-Auto,101,Petrol,40.9,1.5
+1 Series,2018,18995,Automatic,11885,Petrol,36.7,2
+X5,2019,47995,Semi-Auto,4339,Diesel,37.7,3
+1 Series,2016,10900,Manual,29733,Petrol,53.3,1.5
+3 Series,2019,34370,Automatic,123,Diesel,50.4,2
+2 Series,2014,15399,Automatic,72203,Petrol,37.2,3
+1 Series,2015,10998,Manual,23241,Diesel,83.1,1.5
+X1,2019,27000,Automatic,6000,Petrol,39.2,2
+M4,2015,28500,Semi-Auto,40000,Petrol,34,3
+4 Series,2014,12490,Automatic,72000,Diesel,60.1,2
+i3,2016,18999,Automatic,9990,Electric,470.8,0
+3 Series,2017,17998,Semi-Auto,32000,Diesel,62.8,2
+5 Series,2018,26691,Automatic,28869,Petrol,37.7,3
+X5,2015,22995,Automatic,41622,Diesel,47.9,3
+3 Series,2017,16995,Semi-Auto,14404,Diesel,67.3,2
+3 Series,2002,2990,Manual,121821,Petrol,29.4,2.5
+1 Series,2015,13600,Automatic,38046,Diesel,67.3,2
+1 Series,2019,27990,Semi-Auto,10,Diesel,51.4,2
+3 Series,2016,22475,Automatic,22533,Diesel,51.4,3
+X1,2016,16000,Manual,20737,Diesel,60.1,2
+4 Series,2016,37940,Semi-Auto,21600,Petrol,34,3
+2 Series,2015,16000,Semi-Auto,29788,Diesel,64.2,2
+2 Series,2019,21995,Semi-Auto,3000,Petrol,42.2,1.5
+1 Series,2019,24995,Manual,1501,Petrol,41.5,1.5
+X4,2019,35480,Semi-Auto,10395,Diesel,42.8,2
+4 Series,2015,13000,Automatic,56131,Diesel,62.8,2
+X5,2017,26822,Automatic,25288,Diesel,50.4,2
+1 Series,2018,14800,Manual,22961,Petrol,37.2,1.5
+4 Series,2017,16900,Automatic,19834,Diesel,65.7,2
+3 Series,2019,27781,Manual,11701,Diesel,54.3,2
+X1,2017,19532,Semi-Auto,12566,Diesel,60.1,2
+3 Series,2016,12789,Manual,74020,Diesel,64.2,2
+1 Series,2019,14500,Manual,30372,Petrol,53.3,1.5
+4 Series,2019,23350,Automatic,9564,Diesel,65.7,2
+X3,2017,20500,Automatic,30448,Diesel,54.3,2
+X1,2017,16991,Semi-Auto,55535,Diesel,55.4,2
+M4,2019,46000,Semi-Auto,1501,Petrol,32.5,3
+X6,2019,69993,Semi-Auto,1402,Petrol,26.4,3
+X2,2019,23726,Automatic,8848,Petrol,38.7,2
+5 Series,2019,24295,Semi-Auto,4982,Petrol,50.4,2
+5 Series,2014,12000,Automatic,73500,Diesel,62.8,2
+4 Series,2020,27500,Semi-Auto,25,Diesel,60.1,2
+M5,2019,68850,Automatic,4359,Petrol,24.1,4.4
+M2,2020,44995,Semi-Auto,101,Petrol,29.1,3
+M4,2020,47488,Automatic,10,Petrol,34,3
+X3,2019,35564,Semi-Auto,642,Diesel,54.3,2
+1 Series,2019,30160,Automatic,7890,Petrol,34.5,2
+3 Series,2019,23980,Semi-Auto,4063,Diesel,62.8,2
+X2,2018,25950,Automatic,10429,Diesel,58.9,2
+4 Series,2016,16380,Automatic,39563,Diesel,65.7,2
+X5,2019,48302,Semi-Auto,7450,Diesel,37.7,3
+1 Series,2014,5993,Manual,113000,Diesel,74.3,1.6
+4 Series,2020,26950,Semi-Auto,10,Diesel,65.7,2
+X5,2013,18400,Automatic,42815,Diesel,37.7,3
+5 Series,2019,32250,Semi-Auto,11432,Diesel,51.4,3
+1 Series,2015,10999,Manual,23905,Diesel,72.4,1.5
+4 Series,2016,17995,Semi-Auto,36907,Diesel,65.7,2
+X1,2019,27495,Semi-Auto,11,Diesel,60.1,2
+3 Series,2018,18511,Automatic,19857,Petrol,48.7,2
+2 Series,2020,34975,Semi-Auto,5,Diesel,48.7,2
+6 Series,2014,17791,Semi-Auto,45012,Diesel,49.6,3
+3 Series,2020,42995,Automatic,7500,Petrol,33.6,3
+3 Series,2014,8795,Manual,130340,Diesel,55.4,2
+1 Series,2017,14127,Manual,43655,Diesel,68.9,2
+3 Series,2019,24775,Manual,3368,Diesel,64.2,2
+2 Series,2015,10500,Manual,31469,Diesel,68.9,2
+1 Series,2017,21100,Automatic,11360,Petrol,39.8,3
+1 Series,2017,13450,Manual,15663,Petrol,53.3,1.5
+4 Series,2019,23440,Semi-Auto,23,Diesel,65.7,2
+6 Series,2019,35988,Automatic,3693,Diesel,47.9,3
+2 Series,2016,14950,Automatic,49756,Diesel,62.8,2
+5 Series,2011,9975,Automatic,74000,Diesel,53.3,2
+4 Series,2019,23350,Automatic,9189,Diesel,65.7,2
+3 Series,2019,35995,Automatic,3306,Diesel,49.6,2
+3 Series,2020,34993,Semi-Auto,6250,Diesel,47.9,3
+5 Series,2019,28395,Semi-Auto,1792,Diesel,62.8,2
+X1,2016,15270,Manual,55000,Diesel,58.9,2
+X3,2020,69991,Semi-Auto,10,Petrol,24.8,3
+2 Series,2019,23450,Semi-Auto,3564,Petrol,50.4,2
+X7,2019,73990,Semi-Auto,1657,Diesel,31.4,3
+2 Series,2019,18980,Semi-Auto,5992,Petrol,50.4,2
+X2,2019,27989,Semi-Auto,8942,Diesel,58.9,2
+X6,2017,31990,Automatic,42000,Diesel,42.8,3
+X1,2018,21947,Automatic,7283,Petrol,39.2,2
+6 Series,2013,16600,Automatic,57000,Diesel,49.6,3
+X1,2015,16998,Semi-Auto,25649,Diesel,57.6,2
+4 Series,2019,32000,Semi-Auto,4025,Diesel,50.4,3
+3 Series,2013,10998,Manual,44602,Diesel,61.4,2
+4 Series,2019,25980,Semi-Auto,2946,Diesel,65.7,2
+5 Series,2015,16490,Automatic,60000,Diesel,50.4,3
+5 Series,2019,26350,Semi-Auto,11301,Diesel,65.7,2
+1 Series,2016,12950,Manual,52647,Diesel,65.7,2
+1 Series,2019,23000,Manual,5121,Petrol,44.1,1.5
+4 Series,2019,31980,Automatic,10,Petrol,45.6,2
+1 Series,2017,19950,Semi-Auto,30173,Petrol,39.8,3
+6 Series,2013,16199,Automatic,62068,Diesel,49.6,3
+1 Series,2013,10500,Manual,48255,Diesel,62.8,2
+X6,2015,27995,Semi-Auto,40915,Diesel,44.8,3
+2 Series,2019,20263,Semi-Auto,5122,Petrol,53.3,1.5
+2 Series,2017,15887,Automatic,46827,Hybrid,141.2,1.5
+X3,2015,22250,Automatic,37000,Diesel,47.9,3
+1 Series,2015,11200,Automatic,48282,Diesel,70.6,2
+2 Series,2017,17858,Automatic,28561,Hybrid,135.5,1.5
+X4,2015,19799,Automatic,51536,Diesel,47.9,3
+1 Series,2013,9990,Manual,29000,Petrol,48.7,2
+3 Series,2017,19192,Semi-Auto,18014,Diesel,60.1,2
+3 Series,2016,14500,Automatic,55927,Diesel,62.8,2
+3 Series,2005,4375,Manual,55000,Diesel,50.4,2
+4 Series,2016,17144,Manual,18250,Petrol,46.3,2
+4 Series,2018,21980,Semi-Auto,17503,Petrol,48.7,2
+2 Series,2018,14157,Automatic,29590,Petrol,53.3,1.5
+5 Series,2010,7990,Automatic,85724,Diesel,46.3,3
+2 Series,2019,23246,Semi-Auto,6139,Petrol,47.9,2
+3 Series,2018,18000,Automatic,24240,Diesel,64.2,0
+7 Series,2019,50850,Automatic,4202,Diesel,41.5,3
+M4,2016,30990,Semi-Auto,27523,Petrol,34,3
+3 Series,2017,16840,Automatic,47439,Diesel,56.5,3
+4 Series,2016,15400,Automatic,57991,Diesel,65.7,2
+Z4,2020,31980,Semi-Auto,1000,Petrol,38.7,2
+1 Series,2015,14800,Automatic,40960,Diesel,61.4,2
+3 Series,2017,14500,Manual,33600,Diesel,64.2,2
+1 Series,2016,10999,Manual,27681,Diesel,83.1,1.5
+2 Series,2019,30000,Semi-Auto,5555,Petrol,38.2,3
+X3,2013,16995,Semi-Auto,50567,Diesel,50.4,2
+1 Series,2009,3995,Manual,103000,Petrol,46.3,2
+3 Series,2015,16559,Automatic,42199,Diesel,49.6,3
+5 Series,2019,29999,Semi-Auto,10373,Diesel,65.7,2
+2 Series,2020,28490,Semi-Auto,5,Petrol,50.4,2
+4 Series,2017,23497,Automatic,14584,Diesel,50.4,3
+5 Series,2019,33890,Semi-Auto,2096,Diesel,53.3,3
+3 Series,2012,8450,Manual,79480,Diesel,58.9,2
+X5,2019,47440,Semi-Auto,9415,Diesel,37.7,3
+X5,2019,44866,Automatic,7259,Diesel,37.7,3
+2 Series,2019,20898,Automatic,8177,Hybrid,148.7,1.5
+X4,2019,41995,Semi-Auto,1501,Diesel,40.9,3
+3 Series,2014,10399,Manual,47059,Diesel,61.4,2
+3 Series,2014,8800,Manual,84392,Diesel,62.8,2
+4 Series,2015,15480,Automatic,50145,Petrol,43.5,2
+1 Series,2018,15250,Automatic,11487,Petrol,55.5,1.5
+4 Series,2015,12999,Automatic,90734,Diesel,65.7,2
+X3,2019,31980,Semi-Auto,4647,Diesel,54.3,2
+X3,2015,19498,Semi-Auto,30256,Diesel,54.3,2
+5 Series,2016,15000,Automatic,49313,Diesel,60.1,2
+3 Series,2019,21995,Semi-Auto,18000,Diesel,62.8,2
+X2,2019,26790,Manual,103,Diesel,53.3,2
+2 Series,2020,22999,Semi-Auto,5000,Petrol,50.4,1.5
+5 Series,2019,26980,Automatic,105,Petrol,50.4,2
+3 Series,2019,28980,Semi-Auto,6093,Diesel,48.7,2
+3 Series,2011,4995,Manual,88850,Petrol,44.8,2
+3 Series,2010,7995,Automatic,41500,Petrol,41.5,2
+1 Series,2019,26310,Manual,123,Diesel,53.3,2
+4 Series,2016,21898,Semi-Auto,10000,Diesel,52.3,3
+X3,2017,21299,Automatic,33610,Diesel,54.3,2
+i3,2016,17000,Automatic,41063,Other,470.8,0.6
+2 Series,2019,28993,Semi-Auto,2236,Diesel,47.1,2
+4 Series,2018,18000,Automatic,27000,Petrol,48.7,2
+2 Series,2017,13799,Manual,14980,Petrol,52.3,1.5
+3 Series,2019,32940,Semi-Auto,7258,Diesel,49.6,2
+1 Series,2016,14988,Automatic,25633,Diesel,65.7,2
+M4,2019,41980,Semi-Auto,101,Petrol,34,3
+X1,2019,28500,Manual,105,Diesel,68.9,2
+3 Series,2009,6950,Manual,78000,Diesel,58.9,2
+4 Series,2019,27661,Semi-Auto,5452,Diesel,60.1,2
+4 Series,2019,34590,Automatic,999,Petrol,45.6,2
+1 Series,2016,9999,Manual,82850,Diesel,83.1,1.5
+3 Series,2019,40980,Semi-Auto,6250,Diesel,43.5,3
+4 Series,2018,22950,Automatic,1300,Petrol,48.7,2
+1 Series,2018,15990,Manual,13856,Petrol,53.3,1.5
+2 Series,2019,24240,Semi-Auto,1415,Diesel,49.6,2
+1 Series,2016,12700,Manual,14634,Petrol,53.3,1.5
+1 Series,2019,23875,Semi-Auto,5693,Petrol,40.4,1.5
+3 Series,2015,12500,Automatic,107940,Diesel,56.5,3
+3 Series,2017,13750,Manual,27779,Petrol,48.7,2
+3 Series,2020,36995,Manual,103,Diesel,54.3,2
+X7,2019,74140,Semi-Auto,3300,Diesel,33.6,3
+1 Series,2012,6495,Manual,78600,Petrol,49.6,1.6
+X1,2018,18000,Manual,16066,Petrol,51.4,1.5
+3 Series,2013,8999,Automatic,69172,Diesel,68.9,2
+5 Series,2016,16300,Semi-Auto,21464,Diesel,68.9,2
+X5,2019,48990,Semi-Auto,6046,Petrol,27.2,3
+7 Series,2019,55000,Automatic,8546,Diesel,41.5,3
+X5,2015,27844,Automatic,44087,Diesel,47.1,3
+4 Series,2016,15499,Automatic,64997,Diesel,55.4,3
+1 Series,2019,16450,Automatic,9964,Diesel,78.5,1.5
+2 Series,2017,17990,Semi-Auto,8693,Petrol,50.4,2
+3 Series,2019,23980,Semi-Auto,2198,Petrol,47.9,2
+5 Series,2017,23495,Semi-Auto,8213,Diesel,62.8,2
+X1,2016,16700,Automatic,44478,Diesel,60.1,2
+3 Series,2016,16995,Automatic,61630,Diesel,53.3,3
+5 Series,2019,38995,Automatic,6500,Hybrid,156.9,2
+2 Series,2017,16498,Semi-Auto,27811,Diesel,64.2,2
+3 Series,2019,24730,Semi-Auto,3049,Diesel,62.8,2
+1 Series,2017,11200,Manual,40399,Diesel,68.9,2
+2 Series,2020,22990,Semi-Auto,11,Petrol,47.9,2
+1 Series,2019,15989,Automatic,12212,Petrol,55.5,1.5
+M2,2019,42351,Semi-Auto,1797,Petrol,29.1,3
+X3,2012,11753,Automatic,73701,Diesel,50.4,2
+1 Series,2015,8290,Manual,35000,Petrol,51.4,1.6
+X1,2019,22450,Manual,5455,Petrol,39.8,1.5
+1 Series,2013,8999,Manual,31128,Diesel,62.8,2
+1 Series,2015,10300,Automatic,44033,Diesel,72.4,1.5
+1 Series,2017,14995,Manual,19866,Diesel,65.7,2
+1 Series,2017,15280,Automatic,14709,Diesel,72.4,1.5
+X1,2016,18000,Semi-Auto,46354,Diesel,57.6,2
+X1,2017,13000,Manual,46912,Diesel,68.9,2
+1 Series,2020,25890,Manual,1182,Diesel,53.3,2
+3 Series,2019,28348,Automatic,4884,Petrol,41.5,2
+5 Series,2017,18220,Automatic,83352,Diesel,65.7,2
+Z4,2020,38950,Semi-Auto,100,Petrol,33.2,3
+3 Series,2019,25480,Semi-Auto,5673,Diesel,57.7,2
+4 Series,2014,11870,Semi-Auto,77209,Diesel,60.1,2
+2 Series,2017,15995,Semi-Auto,29006,Diesel,68.9,2
+3 Series,2019,34000,Automatic,4000,Diesel,47.9,3
+2 Series,2015,12400,Automatic,20452,Diesel,68.9,2
+X7,2019,73950,Semi-Auto,9121,Diesel,31.4,3
+4 Series,2019,24900,Automatic,4980,Petrol,45.6,2
+4 Series,2018,23470,Automatic,15307,Diesel,52.3,3
+3 Series,2019,27495,Semi-Auto,12897,Diesel,52.3,2
+1 Series,2014,16998,Semi-Auto,30954,Petrol,37.7,3
+4 Series,2016,17595,Semi-Auto,22868,Petrol,45.6,2
+3 Series,2015,11990,Manual,78053,Petrol,44.8,2
+4 Series,2015,14699,Manual,28334,Diesel,58.9,2
+8 Series,2020,61995,Semi-Auto,101,Diesel,40.4,3
+6 Series,2018,28990,Semi-Auto,10250,Diesel,49.6,3
+4 Series,2018,20991,Manual,11455,Petrol,46.3,2
+4 Series,2019,25990,Semi-Auto,11,Diesel,58.9,2
+6 Series,2017,29991,Automatic,28879,Petrol,31,4.4
+3 Series,2017,18391,Semi-Auto,31116,Hybrid,134.5,2
+1 Series,2017,22490,Semi-Auto,23120,Petrol,39.8,3
+3 Series,2018,18990,Semi-Auto,17282,Diesel,64.2,2
+X2,2019,28990,Semi-Auto,2714,Petrol,39.2,2
+2 Series,2019,22895,Semi-Auto,8319,Diesel,51.4,2
+5 Series,2019,30450,Semi-Auto,10191,Hybrid,156.9,2
+8 Series,2020,62995,Semi-Auto,11,Petrol,31.7,3
+3 Series,2015,15995,Automatic,33003,Diesel,56.5,3
+2 Series,2019,21480,Manual,3347,Diesel,61.4,2
+1 Series,2017,17490,Semi-Auto,10571,Diesel,65.7,2
+2 Series,2019,22646,Manual,123,Petrol,52.3,1.5
+3 Series,2019,29356,Automatic,3412,Diesel,52.3,2
+X1,2019,26995,Semi-Auto,11,Diesel,60.1,2
+3 Series,2020,24490,Manual,5,Diesel,56.5,2
+X2,2019,27995,Semi-Auto,1501,Diesel,50.4,2
+1 Series,2015,16314,Manual,17846,Petrol,35.3,3
+3 Series,2020,33995,Semi-Auto,4000,Petrol,41.5,2
+1 Series,2017,21498,Manual,16273,Petrol,36.2,3
+1 Series,2015,12295,Semi-Auto,56000,Diesel,67.3,2
+4 Series,2019,22726,Automatic,9987,Diesel,65.7,2
+5 Series,2017,28920,Semi-Auto,22158,Diesel,51.4,3
+3 Series,2017,14200,Manual,27393,Diesel,64.2,2
+2 Series,2020,20980,Semi-Auto,12,Petrol,50.4,1.5
+X3,2017,25950,Semi-Auto,19817,Diesel,54.3,2
+2 Series,2019,29995,Semi-Auto,460,Petrol,38.2,3
+7 Series,2019,48898,Semi-Auto,17501,Diesel,41.5,3
+Z3,1999,3950,Manual,58000,Petrol,35.3,1.9
+X1,2017,19490,Automatic,27988,Diesel,57.6,2
+2 Series,2015,12198,Manual,22812,Diesel,74.3,1.5
+1 Series,2013,9899,Manual,56370,Petrol,50.4,1.6
+1 Series,2018,15500,Automatic,8604,Petrol,37.2,1.5
+1 Series,2017,15850,Manual,39806,Diesel,62.8,2
+1 Series,2016,13900,Automatic,20544,Petrol,54.3,1.5
+2 Series,2017,14000,Semi-Auto,19826,Petrol,55.4,1.5
+1 Series,2016,11500,Manual,27848,Petrol,53.3,1.5
+2 Series,2017,13980,Semi-Auto,27483,Petrol,55.4,1.5
+X3,2019,32950,Semi-Auto,4953,Petrol,30.4,2
+X1,2016,20295,Semi-Auto,20800,Petrol,44.8,2
+3 Series,2016,11300,Automatic,73178,Diesel,70.6,2
+1 Series,2013,7999,Manual,61295,Diesel,74.3,1.6
+3 Series,2019,26998,Semi-Auto,14572,Diesel,48.7,2
+1 Series,2015,10490,Manual,45000,Diesel,65.7,2
+8 Series,2020,66991,Semi-Auto,123,Petrol,33.2,3
+8 Series,2019,64103,Semi-Auto,1897,Diesel,39.8,3
+3 Series,2019,29950,Semi-Auto,104,Diesel,52.3,2
+1 Series,2017,11990,Manual,12000,Diesel,72.4,1.5
+M4,2018,36440,Automatic,16000,Petrol,34,3
+2 Series,2016,19372,Semi-Auto,27584,Petrol,35.8,3
+3 Series,2020,26480,Semi-Auto,13,Petrol,42.2,2
+X5,2018,39988,Automatic,16933,Hybrid,85.6,2
+1 Series,2017,22991,Semi-Auto,15709,Petrol,39.8,3
+5 Series,2019,30000,Automatic,6000,Diesel,60.1,2
+4 Series,2014,13950,Semi-Auto,24649,Petrol,44.8,2
+5 Series,2019,42400,Semi-Auto,101,Petrol,50.4,2
+X5,2016,36995,Automatic,36631,Diesel,42.8,3
+2 Series,2016,11850,Manual,42281,Diesel,68.9,2
+3 Series,2016,18212,Semi-Auto,9020,Diesel,65.7,2
+3 Series,2017,17901,Semi-Auto,16965,Petrol,46.3,2
+1 Series,2018,13477,Manual,51000,Diesel,50.4,2
+X1,2017,16400,Automatic,24852,Diesel,65.7,2
+1 Series,2018,17490,Semi-Auto,26232,Petrol,54.3,1.5
+X2,2018,25969,Semi-Auto,12271,Diesel,61.4,2
+1 Series,2017,22390,Semi-Auto,18511,Petrol,39.8,3
+5 Series,2015,11500,Automatic,79340,Diesel,62.8,2
+3 Series,2019,26826,Automatic,7015,Petrol,41.5,3
+1 Series,2013,10391,Manual,31144,Petrol,50.4,1.6
+i3,2017,18500,Automatic,36429,Hybrid,470.8,0
+X5,2014,23950,Automatic,67711,Diesel,47.1,3
+3 Series,2015,11295,Automatic,94590,Diesel,62.8,2
+5 Series,2020,34750,Automatic,101,Diesel,60.1,3
+3 Series,2017,17695,Semi-Auto,24909,Diesel,62.8,2
+X5,2019,54750,Semi-Auto,18673,Diesel,33.6,3
+1 Series,2016,15998,Semi-Auto,21914,Diesel,65.7,2
+3 Series,2015,17190,Automatic,34089,Diesel,51.4,3
+X5,2013,21212,Automatic,51500,Diesel,45.6,3
+3 Series,2018,19990,Automatic,23494,Diesel,57.6,2
+1 Series,2015,7990,Manual,62000,Petrol,50.4,1.6
+3 Series,2019,22780,Semi-Auto,11944,Petrol,44.8,2
+4 Series,2016,11250,Manual,97706,Diesel,62.8,2
+2 Series,2020,29950,Semi-Auto,10,Diesel,48.7,2
+4 Series,2017,15600,Automatic,43290,Diesel,65.7,2
+X5,2019,45840,Automatic,10923,Diesel,37.7,3
+X5,2019,46490,Semi-Auto,13015,Diesel,37.7,3
+2 Series,2015,11837,Semi-Auto,27494,Diesel,68.9,2
+Z4,2020,39991,Semi-Auto,202,Petrol,37.2,2
+X2,2019,27990,Automatic,9182,Petrol,39.8,2
+5 Series,2012,11400,Automatic,86674,Diesel,43.5,3
+3 Series,2016,17990,Automatic,36000,Diesel,51.4,3
+5 Series,2018,26790,Automatic,20000,Hybrid,156.9,2
+2 Series,2019,27990,Semi-Auto,3736,Diesel,48.7,2
+5 Series,2017,27750,Automatic,15899,Diesel,57.7,2
+3 Series,2017,14558,Semi-Auto,28487,Petrol,54.3,1.5
+3 Series,2015,14391,Semi-Auto,56262,Diesel,62.8,2
+3 Series,2019,26500,Semi-Auto,7120,Petrol,47.9,2
+4 Series,2019,29995,Automatic,4500,Diesel,58.9,2
+X1,2016,17900,Semi-Auto,18713,Diesel,55.4,2
+5 Series,2017,20999,Automatic,35431,Diesel,65.7,2
+1 Series,2014,9500,Automatic,54020,Diesel,64.2,2
+3 Series,2015,10000,Manual,85515,Diesel,68.9,2
+5 Series,2019,34850,Automatic,1522,Hybrid,141.3,2
+X3,2016,21856,Semi-Auto,20094,Diesel,54.3,2
+1 Series,2020,23590,Manual,1104,Diesel,53.3,2
+Z4,2019,38156,Semi-Auto,3140,Petrol,33.2,3
+X2,2019,28950,Semi-Auto,6086,Petrol,36.2,2
+X6,2013,16990,Automatic,80000,Diesel,37.7,3
+3 Series,2017,14498,Manual,24719,Diesel,67.3,2
+3 Series,2017,19450,Semi-Auto,24701,Diesel,62.8,2
+X1,2019,24899,Manual,5322,Petrol,51.4,1.5
+2 Series,2015,18012,Semi-Auto,13642,Diesel,57.6,2
+3 Series,2018,20800,Automatic,23217,Diesel,64.2,2
+1 Series,2019,22280,Manual,4710,Petrol,41.5,1.5
+6 Series,2020,33490,Semi-Auto,101,Petrol,42.8,2
+4 Series,2019,24250,Semi-Auto,10125,Diesel,58.9,2
+X7,2019,77880,Semi-Auto,6506,Diesel,31.4,3
+M3,2004,19500,Manual,46000,Petrol,23.3,3.2
+5 Series,2016,13299,Automatic,80823,Diesel,62.8,2
+2 Series,2016,17240,Semi-Auto,25653,Diesel,60.1,2
+3 Series,2012,6480,Manual,112000,Diesel,61.4,2
+2 Series,2019,24950,Semi-Auto,4534,Diesel,46.3,2
+4 Series,2016,19995,Semi-Auto,14530,Petrol,48.7,2
+3 Series,2015,12498,Manual,50730,Diesel,68.9,2
+5 Series,2016,14900,Automatic,35309,Diesel,60.1,2
+X4,2018,32000,Semi-Auto,10920,Diesel,42.8,2
+4 Series,2016,19444,Semi-Auto,55297,Diesel,50.4,3
+3 Series,2013,8800,Manual,60863,Diesel,57.6,2
+5 Series,2016,15940,Automatic,66652,Diesel,51.4,3
+1 Series,2019,22995,Manual,1569,Diesel,70.6,2
+5 Series,2017,22300,Automatic,12727,Diesel,65.7,2
+1 Series,2015,8490,Manual,46000,Petrol,53.3,1.5
+4 Series,2016,10995,Manual,103500,Diesel,67.3,2
+2 Series,2015,18998,Semi-Auto,24859,Petrol,37.2,3
+M4,2019,43480,Semi-Auto,152,Petrol,34,3
+X5,2017,41500,Automatic,18000,Diesel,42.8,3
+X5,2019,47980,Semi-Auto,11813,Diesel,37.7,3
+3 Series,2019,34985,Automatic,2974,Diesel,47.9,3
+3 Series,2016,11750,Automatic,50318,Diesel,67.3,2
+X1,2016,20495,Semi-Auto,13200,Diesel,57.6,2
+3 Series,2018,21875,Semi-Auto,15769,Petrol,48.7,2
+5 Series,2015,15990,Semi-Auto,17324,Diesel,62.8,2
+X4,2016,21400,Automatic,44352,Diesel,54.3,2
+4 Series,2019,24990,Semi-Auto,102,Diesel,65.7,2
+2 Series,2020,34000,Semi-Auto,2986,Petrol,36.2,2
+5 Series,2017,25372,Semi-Auto,8500,Diesel,60.1,2
+5 Series,2016,15000,Automatic,55120,Diesel,62.8,2
+X3,2016,20800,Manual,28000,Diesel,52.3,2
+1 Series,2017,16475,Manual,12194,Petrol,52.3,1.5
+1 Series,2014,11998,Manual,20990,Diesel,64.2,2
+4 Series,2016,10899,Manual,76280,Diesel,67.3,2
+3 Series,2020,39995,Semi-Auto,1898,Petrol,41.5,2
+1 Series,2014,12000,Manual,15520,Diesel,64.2,2
+X3,2009,7675,Manual,70000,Diesel,45.6,2
+6 Series,2019,32785,Semi-Auto,6081,Diesel,42.2,2
+1 Series,2019,18499,Semi-Auto,748,Diesel,70.6,2
+X5,2019,43750,Semi-Auto,10829,Diesel,37.7,3
+1 Series,2015,12270,Automatic,38573,Diesel,68.9,1.5
+1 Series,2016,14802,Semi-Auto,26804,Diesel,68.9,1.5
+5 Series,2017,16400,Automatic,67287,Diesel,68.9,2
+X1,2014,12999,Automatic,41200,Diesel,52.3,2
+X3,2019,30780,Automatic,4464,Diesel,54.3,2
+2 Series,2018,20642,Semi-Auto,6614,Petrol,36.2,2
+4 Series,2019,29000,Semi-Auto,14000,Diesel,50.4,3
+X4,2015,20600,Automatic,26928,Diesel,47.9,3
+4 Series,2015,12970,Manual,40276,Diesel,67.3,2
+2 Series,2016,15299,Automatic,21594,Petrol,51.4,1.5
+3 Series,2015,18498,Semi-Auto,27855,Diesel,51.4,3
+2 Series,2019,22480,Semi-Auto,5869,Diesel,51.4,2
+3 Series,2016,12350,Automatic,59434,Diesel,70.6,2
+2 Series,2016,9989,Manual,43201,Diesel,68.9,2
+1 Series,2017,20299,Automatic,12952,Petrol,39.8,3
+3 Series,2019,23895,Semi-Auto,38231,Diesel,52.3,2
+2 Series,2017,18490,Automatic,12941,Hybrid,141.2,1.5
+3 Series,2019,27710,Semi-Auto,9545,Diesel,52.3,2
+2 Series,2019,20840,Semi-Auto,6050,Petrol,50.4,1.5
+1 Series,2016,8000,Manual,81579,Diesel,83.1,1.5
+4 Series,2017,19142,Semi-Auto,24471,Diesel,65.7,2
+2 Series,2019,20480,Automatic,8719,Diesel,52.3,2
+3 Series,2019,42995,Automatic,1606,Petrol,34.9,3
+2 Series,2016,17998,Semi-Auto,28099,Diesel,55.4,2
+5 Series,2019,32780,Automatic,3774,Diesel,65.7,2
+1 Series,2019,27720,Manual,123,Diesel,53.3,2
+X5,2019,46991,Semi-Auto,8778,Diesel,37.7,3
+1 Series,2016,11490,Manual,35000,Petrol,52.3,1.5
+4 Series,2016,14600,Automatic,30556,Diesel,62.8,2
+4 Series,2017,19800,Automatic,27846,Diesel,49.6,3
+5 Series,2019,30890,Automatic,123,Petrol,47.9,2
+4 Series,2019,25990,Automatic,6519,Diesel,58.9,2
+5 Series,2016,13000,Manual,39178,Diesel,65.7,2
+2 Series,2015,14998,Semi-Auto,29809,Diesel,68.9,2
+3 Series,2017,17994,Semi-Auto,19452,Petrol,45.6,2
+4 Series,2019,29995,Automatic,999,Diesel,53.3,3
+5 Series,2016,11795,Automatic,96620,Diesel,62.8,2
+6 Series,2014,17000,Automatic,64674,Diesel,49.6,3
+2 Series,2016,13200,Automatic,28918,Petrol,53.3,1.5
+7 Series,2020,53000,Semi-Auto,6555,Diesel,42.2,3
+3 Series,2019,24895,Semi-Auto,21656,Diesel,52.3,2
+5 Series,2020,27990,Semi-Auto,8,Hybrid,52.3,2
+X1,2017,19490,Automatic,19090,Diesel,65.7,2
+4 Series,2019,29361,Automatic,123,Diesel,65.7,2
+3 Series,2015,20440,Semi-Auto,39000,Petrol,41.5,3
+X1,2018,18502,Manual,12800,Diesel,68.9,2
+3 Series,2017,15916,Manual,24669,Petrol,48.7,2
+3 Series,2016,16529,Automatic,63679,Hybrid,134.5,2
+2 Series,2016,10465,Manual,16228,Diesel,68.9,2
+3 Series,2015,13295,Automatic,76720,Diesel,51.4,3
+2 Series,2019,23995,Semi-Auto,2279,Diesel,65.7,2
+X1,2019,25999,Semi-Auto,2974,Diesel,60.1,2
+M5,2014,23490,Automatic,55241,Petrol,28.5,4.4
+X5,2019,46440,Semi-Auto,1438,Diesel,37.7,3
+4 Series,2016,17580,Semi-Auto,29387,Petrol,44.8,2
+X7,2019,67950,Automatic,15000,Diesel,31.4,3
+X5,2012,12990,Automatic,92000,Diesel,38.2,3
+3 Series,2016,13500,Manual,45799,Diesel,64.2,2
+1 Series,2017,11700,Automatic,69643,Diesel,62.8,2
+1 Series,2017,11100,Manual,28507,Diesel,72.4,1.5
+3 Series,2015,13960,Automatic,33330,Diesel,60.1,2
+X5,2018,44990,Semi-Auto,5321,Diesel,36.7,3
+1 Series,2015,9490,Manual,43000,Diesel,65.7,2
+3 Series,2013,10298,Semi-Auto,51645,Diesel,62.8,2
+2 Series,2017,11800,Manual,31601,Diesel,74.3,1.5
+1 Series,2016,15700,Manual,19732,Diesel,62.8,2
+5 Series,2012,9800,Manual,73350,Diesel,57.6,2
+3 Series,2016,18191,Semi-Auto,38882,Hybrid,134.5,2
+3 Series,2010,5999,Automatic,118000,Petrol,35.8,3
+2 Series,2015,10500,Automatic,44056,Petrol,55.4,1.5
+X1,2017,18998,Semi-Auto,28686,Diesel,57.6,2
+3 Series,2019,31995,Automatic,999,Petrol,42.2,2
+3 Series,2018,16950,Semi-Auto,27641,Diesel,65.7,2
+3 Series,2014,13350,Automatic,42686,Diesel,60.1,2
+5 Series,2017,22695,Semi-Auto,14563,Diesel,65.7,2
+3 Series,2019,27275,Manual,3377,Diesel,54.3,2
+1 Series,2016,12100,Automatic,25786,Diesel,74.3,2
+5 Series,2019,26350,Semi-Auto,8324,Diesel,65.7,2
+5 Series,2019,34995,Semi-Auto,7450,Hybrid,156.9,2
+X5,2017,27500,Automatic,9748,Diesel,47.9,3
+2 Series,2016,13400,Manual,35437,Diesel,64.2,2
+3 Series,2016,15510,Semi-Auto,40417,Diesel,60.1,2
+X2,2019,29960,Semi-Auto,6321,Diesel,58.9,2
+3 Series,2013,10998,Manual,72315,Diesel,61.4,2
+5 Series,2017,21850,Automatic,33000,Diesel,65.7,2
+4 Series,2019,28980,Automatic,6558,Diesel,53.3,3
+2 Series,2019,22980,Automatic,15,Petrol,53.3,1.5
+2 Series,2019,21730,Automatic,5054,Petrol,39.2,1.5
+3 Series,2016,16500,Automatic,38438,Other,134.5,2
+X2,2019,24998,Manual,4174,Diesel,48.7,2
+1 Series,2019,19950,Semi-Auto,11686,Diesel,48.7,2
+X5,2019,51990,Semi-Auto,12,Diesel,37.7,3
+X1,2017,19981,Semi-Auto,32286,Diesel,55.4,2
+5 Series,2016,13795,Automatic,65251,Diesel,60.1,2
+3 Series,2019,26450,Semi-Auto,2754,Diesel,52.3,2
+1 Series,2020,23980,Semi-Auto,1500,Petrol,40.4,1.5
+1 Series,2017,21901,Semi-Auto,4775,Petrol,39.8,3
+2 Series,2016,12150,Manual,57417,Petrol,50.4,1.5
+4 Series,2015,17495,Semi-Auto,12836,Diesel,65.7,2
+3 Series,2018,22995,Semi-Auto,8259,Petrol,48.7,2
+4 Series,2014,15050,Semi-Auto,26973,Diesel,60.1,2
+1 Series,2017,20995,Semi-Auto,22000,Petrol,39.8,3
+X1,2018,22995,Automatic,12848,Petrol,44.8,2
+1 Series,2017,21995,Semi-Auto,15948,Petrol,39.8,3
+4 Series,2017,19440,Semi-Auto,19025,Diesel,60.1,2
+1 Series,2014,17292,Semi-Auto,35481,Petrol,37.7,3
+X5,2019,49998,Semi-Auto,7101,Diesel,37.7,3
+5 Series,2017,16850,Automatic,30379,Diesel,60.1,2
+2 Series,2019,20490,Semi-Auto,8171,Diesel,51.4,2
+2 Series,2019,19880,Semi-Auto,7916,Diesel,51.4,2
+2 Series,2017,14750,Automatic,10000,Petrol,55.4,1.5
+X2,2019,29950,Automatic,4300,Petrol,39.2,2
+X1,2016,18990,Automatic,18604,Diesel,55.4,2
+X3,2016,24950,Semi-Auto,30205,Diesel,47.1,3
+X5,2016,34498,Automatic,17303,Hybrid,85.6,2
+3 Series,2017,14999,Automatic,78446,Hybrid,134.5,2
+2 Series,2015,15980,Semi-Auto,41532,Diesel,61.4,2
+3 Series,2017,18908,Semi-Auto,34134,Diesel,53.3,3
+1 Series,2019,14950,Manual,14735,Diesel,78.5,1.5
+X1,2017,20685,Automatic,19116,Diesel,57.6,2
+1 Series,2013,8000,Manual,50000,Petrol,49.6,1.6
+4 Series,2017,17500,Manual,39256,Diesel,62.8,2
+4 Series,2019,22810,Automatic,5984,Petrol,48.7,2
+4 Series,2018,22440,Semi-Auto,18501,Petrol,48.7,2
+1 Series,2016,12498,Manual,22103,Diesel,72.4,1.5
+1 Series,2019,23500,Semi-Auto,11128,Petrol,39.8,3
+3 Series,2017,16745,Automatic,50000,Other,148.7,2
+5 Series,2018,27750,Automatic,24460,Diesel,60.1,3
+2 Series,2019,21097,Semi-Auto,7947,Diesel,47.1,2
+X7,2020,64999,Semi-Auto,4000,Diesel,33.6,3
+X1,2016,14999,Manual,26436,Diesel,68.9,2
+2 Series,2019,22995,Manual,10,Petrol,42.8,1.5
+1 Series,2017,16995,Semi-Auto,23426,Petrol,47.9,2
+6 Series,2017,23750,Automatic,25338,Diesel,49.6,3
+3 Series,2019,35490,Semi-Auto,10130,Diesel,44.1,3
+1 Series,2019,19999,Semi-Auto,16106,Diesel,67.3,2
+1 Series,2017,20750,Semi-Auto,16977,Petrol,39.8,3
+1 Series,2019,26990,Semi-Auto,3660,Petrol,40.4,1.5
+5 Series,2019,31450,Automatic,13,Petrol,48.7,2
+2 Series,2020,22980,Manual,10,Petrol,47.1,1.5
+3 Series,2014,11750,Automatic,92000,Diesel,60.1,2
+5 Series,2019,34990,Semi-Auto,1800,Petrol,47.9,2
+2 Series,2017,16950,Semi-Auto,11569,Petrol,53.3,1.5
+3 Series,2019,29888,Manual,2454,Diesel,54.3,2
