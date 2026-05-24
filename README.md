@@ -15,5 +15,5 @@ To run the app locally:
 ## Online Version
 https://ss-18.it.helsinki.fi/vis
 
-##video demo
+## Video Demo
 https://www.youtube.com/watch?v=AV-3M2ApfUc
